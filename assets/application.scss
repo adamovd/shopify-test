@@ -1,6 +1,10 @@
 // put your styles here
 
 body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   font-family: "Open Sans", sans-serif;
   background-color: #995be5;
   color: #efd9d9;
